@@ -2,4 +2,4 @@
  Aplicação que calcula o custo médio da cesta básica no Brasil no seu ano de nascimento. 
 
 
-Orientação e agradecimento: Caroline Rozendo, Vinicius Sueiro e Tiago Maranhão. 
+Orientação e agradecimento: Caroline Rozendo, Rodrigo Menegat, Vinicius Sueiro e Tiago Maranhão. 
